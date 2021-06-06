@@ -41,7 +41,7 @@ having information about each city with the total number of drivers and the ride
 
     ![Ride_sharing_summary](./analysis/Ride_sharing_summary.png) 
 
-	![Pyber_fare_summary](./analysis/Pyber_fare_summary.png) 
+	![PyBer_fare_summary](./analysis/PyBer_fare_summary.png) 
 
 ## Summary
 
